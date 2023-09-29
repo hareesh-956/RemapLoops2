@@ -1,0 +1,15 @@
+C:\Users\haree\source\repos\Loops2\Loops2\obj\Debug\net6.0\Loops2.csproj.AssemblyReference.cache
+C:\Users\haree\source\repos\Loops2\Loops2\obj\Debug\net6.0\Loops2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haree\source\repos\Loops2\Loops2\obj\Debug\net6.0\Loops2.AssemblyInfoInputs.cache
+C:\Users\haree\source\repos\Loops2\Loops2\obj\Debug\net6.0\Loops2.AssemblyInfo.cs
+C:\Users\haree\source\repos\Loops2\Loops2\obj\Debug\net6.0\Loops2.csproj.CoreCompileInputs.cache
+C:\Users\haree\source\repos\Loops2\Loops2\bin\Debug\net6.0\Loops2.exe
+C:\Users\haree\source\repos\Loops2\Loops2\bin\Debug\net6.0\Loops2.deps.json
+C:\Users\haree\source\repos\Loops2\Loops2\bin\Debug\net6.0\Loops2.runtimeconfig.json
+C:\Users\haree\source\repos\Loops2\Loops2\bin\Debug\net6.0\Loops2.dll
+C:\Users\haree\source\repos\Loops2\Loops2\bin\Debug\net6.0\Loops2.pdb
+C:\Users\haree\source\repos\Loops2\Loops2\obj\Debug\net6.0\Loops2.dll
+C:\Users\haree\source\repos\Loops2\Loops2\obj\Debug\net6.0\refint\Loops2.dll
+C:\Users\haree\source\repos\Loops2\Loops2\obj\Debug\net6.0\Loops2.pdb
+C:\Users\haree\source\repos\Loops2\Loops2\obj\Debug\net6.0\Loops2.genruntimeconfig.cache
+C:\Users\haree\source\repos\Loops2\Loops2\obj\Debug\net6.0\ref\Loops2.dll
